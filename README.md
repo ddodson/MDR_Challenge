@@ -1,6 +1,6 @@
 # MDR_Challenge
 
-## Once you have completed this challenge make a pull request against master branch in this repository.
+## Once you have completed this challenge upload your code onto github and send the link.
 
 ### Prerequisites 
 **You will need composer, php, and a mysql installed on your local machine to complete this challenge**
